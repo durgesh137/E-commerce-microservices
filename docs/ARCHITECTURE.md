@@ -1,5 +1,12 @@
 # Architecture Documentation
 
+**📖 Also See:**
+- [README.md](../README.md) - Project overview and quick start
+- [API.md](API.md) - API endpoints and testing guide
+- [TROUBLESHOOTING.md](TROUBLESHOOTING.md) - Common issues and solutions
+
+---
+
 ## System Architecture
 
 ```
@@ -235,4 +242,3 @@ Kubernetes Cluster
 ├── Ingress (External access)
 └── ConfigMaps & Secrets
 ```
-

@@ -1,5 +1,12 @@
 # Troubleshooting Guide
 
+**📖 Also See:**
+- [README.md](../README.md) - Project overview and quick start
+- [API.md](API.md) - API endpoints and build commands
+- [ARCHITECTURE.md](ARCHITECTURE.md) - Architecture details
+
+---
+
 ## Common Issues and Solutions
 
 ### 1. Port Already in Use
@@ -274,4 +281,3 @@ mvn clean install -DskipTests
 # Start fresh
 ./start-services.sh
 ```
-
